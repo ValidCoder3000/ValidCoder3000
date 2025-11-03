@@ -1,7 +1,7 @@
 
 
 
-![MY IMAGE BANNER CONTAINING MY NAME](img.jpg=60x50)
+![MY IMAGE BANNER CONTAINING MY NAME]("C:\Users\eeola\Documents\INTRO TO WEB DEVELOPMENT\CODING EXAMPLE(TOOLS AND AUTOMATION)\ValidCoder3000\assets\media\Black and Gray Minimalist Shapes Personal Profile LinkedIn Banner.png"=60x50)
 
 
 
