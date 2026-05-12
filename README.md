@@ -5,7 +5,7 @@
 
 
 
-Hey, my name is Emmanuel. I am a recent high school graduate currently on my journey in coding, and I love stories and writing. I do not have much experience, but I am open to gaining it.
+Hello, my name is Emmanuel. I am a recent high school graduate currently on my journey in coding, and I love stories and writing. I do not have much experience, but I am open to gaining it.
 
 I believe that learning how to code is a basic skill that people should have especially now in the 21st century. The knowledge of coding can help me become very versatile in so many spaces, allowing me to be creative and solve problems with ease.
 
@@ -17,6 +17,12 @@ I see coding as writing the computer's story in order to yield results. I know m
 * Java
 * CSS
 * Markdown
+* C#
+
+<ins>Frameworks that I have worked on</ins>
+* Node.js
+* ASP.NET
+* SMSS
 
 
 <ins>My Stats</ins>
