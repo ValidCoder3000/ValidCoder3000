@@ -37,6 +37,10 @@ To me, coding is like writing a story for a computer — every line of code shap
 * C#: 60% 
 
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
 
 <ins>Goals</ins>
 
