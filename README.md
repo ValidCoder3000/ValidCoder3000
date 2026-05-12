@@ -39,7 +39,7 @@ To me, coding is like writing a story for a computer — every line of code shap
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/ValidCoder3000/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ValidCoder3000/ValidCoder3000/blob/output/github-contribution-grid-snake.svg)
 
 
 <ins>Goals</ins>
